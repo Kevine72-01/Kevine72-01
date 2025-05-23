@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, Python, MySQL, MongoDB
+- 👨‍🎓 I'm currently studying in College
+- 🤔 I’m looking for help with Basic and other things needed Being an IT student
+
+- 📫 How to reach me: silvestre.kevine.nopuente@gmail.com
 <!--
 **Kevine72-01/Kevine72-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

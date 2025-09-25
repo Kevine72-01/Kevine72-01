@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Java, HTML, CSS, JavaScript, Python, MySQL, MongoDB
 - 👨‍🎓 I'm currently studying in College
-- 🤔 I’m looking for help with Basic and other things needed Being an IT student
 
 - 📫 How to reach me: silvestre.kevine.nopuente@gmail.com
 <!--

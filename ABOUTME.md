@@ -4,6 +4,10 @@
 - 👨‍🎓 I'm currently studying in College
 
 - 📫 How to reach me: silvestre.kevine.nopuente@gmail.com
+
+- Deployed Websites:
+- https://kevine72-01.github.io/CounterStrike2_WIKI/
+- 
 <!--
 **Kevine72-01/Kevine72-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

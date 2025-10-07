@@ -7,7 +7,11 @@
 
 - Deployed Websites:
 - https://kevine72-01.github.io/CounterStrike2_WIKI/
-- 
+  
+- Ocurrently working on:
+- Task Management System
+- Expenses Tracker
+- Google Map Clone
 <!--
 **Kevine72-01/Kevine72-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

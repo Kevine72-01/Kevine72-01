@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, Python, MySQL, MongoDB
+- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, Python, MySQL, Mern Stack, Networking
 - 👨‍🎓 I'm currently studying in College
 
 - 📫 How to reach me: silvestre.kevine.nopuente@gmail.com
